@@ -1,4 +1,3 @@
-import "./styles.css";
 import Form from "./Form";
 import { useState } from "react";
 
